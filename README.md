@@ -10,7 +10,7 @@ python libraries almost...
 
 #pandas
 import pandas as pd
-pip install 
+pip install panda
 - matplotlib
 import matplotlib.pyplot as plt
 
