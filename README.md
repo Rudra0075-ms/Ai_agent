@@ -12,7 +12,7 @@ python libraries almost...
 -import pandas as pd
 -pip install panda
 
-- matplotlib
+#matplotlib
 import matplotlib.pyplot as plt
 
 uploading python mini projects
