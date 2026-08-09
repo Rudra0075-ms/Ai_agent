@@ -1,25 +1,44 @@
+# 🤖 AI Agent....
+
+**Progress on 🔝**
+Python libraries almost completed... 🚀
+
+## 🐍 Python Libraries
+
+### NumPy
+
+```python
+import numpy as np
 ```
 
-# Ai_agent....
-progress on 🔝  
-python libraries almost...
-
-#numpy
--import numpy as np
--pip install numpy
-
-#pandas
--import pandas as pd
--pip install panda
-
-#matplotlib
--import matplotlib.pyplot as plt
--pip install matplotlib
-
-uploading python mini projects in this repository:------
-
-https://github.com/Rudra0075-ms/Python_Mini_Projects      
-
-more projects coming soon...
-
+```bash
+pip install numpy
 ```
+
+### Pandas
+
+```python
+import pandas as pd
+```
+
+```bash
+pip install pandas
+```
+
+### Matplotlib
+
+```python
+import matplotlib.pyplot as plt
+```
+
+```bash
+pip install matplotlib
+```
+
+## 📂 Python Mini Projects
+
+Uploading Python mini projects in this repository:
+
+**GitHub:** https://github.com/Rudra0075-ms/Python_Mini_Projects
+
+🚀 More projects coming soon...
