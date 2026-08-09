@@ -16,7 +16,7 @@ python libraries almost...
 -import matplotlib.pyplot as plt
 -pip install matplotlib
 
-uploading python mini projects in this repository:------         
+uploading python mini projects in this repository:------   https://github.com/Rudra0075-ms/Python_Mini_Projects      
 more projects coming soon...
 
 ```
