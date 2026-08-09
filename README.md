@@ -9,8 +9,9 @@ python libraries almost...
 -pip install numpy
 
 #pandas
-import pandas as pd
-pip install panda
+-import pandas as pd
+-pip install panda
+
 - matplotlib
 import matplotlib.pyplot as plt
 
