@@ -3,9 +3,12 @@
 # Ai_agent....
 progress on 🔝  
 python libraries almost... 
-- import numpy as np
+- numpy
+import numpy as np
 - pandas
+import pandas as pd
 - matplotlib
+
 uploading python mini projects
 more projects coming soon...
 
