@@ -2,7 +2,7 @@
 
 *reopening it*
 
-*ms*
+*ms (microsoft offered course*
 
 **Progress on 🔝**
 Python libraries almost completed... 🚀
