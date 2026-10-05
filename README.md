@@ -2,7 +2,7 @@
 
 *reopening it*
 
-*ms (microsoft offered course*
+*ms (microsoft offered course- Machine learning models*
 
 **Progress on 🔝**
 Python libraries almost completed... 🚀
